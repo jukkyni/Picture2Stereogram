@@ -19,7 +19,7 @@ Depth-Anythin-V2を使用するための準備の詳細は,[GitHub-Depth-Anythin
 Picture2Stereogram
 ### 準備
 `
-git clone https://github.com/jukkyni/Picture2Stereogram
+git clone https://github.com/jukkyni/Picture2Stereogram  
 cd Picture2Stereogram
 `
 ### ステレオグラム生成器を使う場合
