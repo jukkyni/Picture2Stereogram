@@ -46,7 +46,9 @@ python run.py <inpath> \
 - `--split`:ステレオグラムの左右の画像を個別に保存します.`--outpath`が指定されていない場合は無視されます.
 #### 使用例
 `python run.py examples/demo1.jpg --pyplot --cross`  
+![crossdemoplt](examples/demo1.png)
 `python run.py examples/demo2.jpg --downscale 0.8 --outpath examples --pyplot`
+![downscaledemoplt](examples/demo2.png)
 #### 注意
 - `--outpath`でディレクトリを指定する場合は,`examples/`のように末尾に区切り文字を含めないでください.
 - ステレオグラムを保存する場合は,出力ファイルは`.png`形式に統一されます.
