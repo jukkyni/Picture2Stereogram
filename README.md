@@ -20,5 +20,5 @@ Depth-Anything-V2
 ## 使用例
 
 ## ライセンス
-Picture2Stereogram includes the work that is distributed in the (Apache License 2.0)[http://www.apache.org/licenses/LICENSE-2.0].
-Picture2Stereogramは、(Apache-2.0ライセンス)[http://www.apache.org/licenses/LICENSE-2.0]で配布されている製作物を含みます。
+Picture2Stereogram includes the work that is distributed in the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Picture2Stereogramは、[Apache-2.0ライセンス](http://www.apache.org/licenses/LICENSE-2.0)で配布されている製作物を含みます。
